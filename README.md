@@ -1,4 +1,6 @@
 TD9 - Automating Trading
+Binome Clément Pérot - Ewan Debove
+
 
 Tasks list- GET  
 • Get a list of all available cryptocurrencies and display it 
