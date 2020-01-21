@@ -1,4 +1,5 @@
-TD9 - Automating Trading
+TD9 - Automating Trading    
+
 Binome Clément Pérot - Ewan Debove
 
 
